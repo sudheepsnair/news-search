@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="search_hint">News Search keyword</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">Hello blank fragment</string>
+    <string name="detailed_fragment_interaction">Detailed News Interaction</string>
+    <string name="list_fragment_interaction">News is empty</string>
+    <string name="loading">Loading...</string>
+    <string name="empty_result">The search result is empty.</string>
+    <string name="error_search">Sorry there is an issue, Please try again later.</string>
+    <string name="search_info">Please click on the search button to start searching for news.</string>
+
+
+</resources>
